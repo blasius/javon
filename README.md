@@ -1,59 +1,55 @@
-Javon
+# Javon
 
-A modern, native-speed programming language with Java-like syntax.
+**A modern, native-speed programming language with Java-like syntax.**  
 
-Javon is a long-term project for developers who love Java’s familiar syntax but want native performance, safety, and expressiveness. Our goal is to create a language that is fast, modern, and shaped by the community from the ground up.
+Javon is a long-term project for developers who love **Java’s familiar syntax** but want **native performance, safety, and expressiveness**. Our goal is to create a language that is fast, modern, and shaped by the community from the ground up.
 
-Vision
+---
 
-Combine Java-like readability with native execution speed.
+## Vision
+- Combine **Java-like readability** with **native execution speed**.  
+- Provide a **safe, modern programming model** for high-performance applications.  
+- Build a **community-driven language** that evolves over time.  
 
-Provide a safe, modern programming model for high-performance applications.
+---
 
-Build a community-driven language that evolves over time.
+## Roadmap
 
-Roadmap
+**Phase 1 – Language Design (Now)**  
+- Define core syntax and minimal working features.  
+- Decide on memory model and runtime approach.  
+- Gather ideas and feedback from early contributors.  
 
-Phase 1 – Language Design (Now)
+**Phase 2 – Prototype Compiler / Interpreter**  
+- Implement basic parser and AST for core syntax.  
+- Compile simple programs to native code.  
+- Build an initial test suite for language features.  
 
-Define core syntax and minimal working features.
+**Phase 3 – Standard Library & Tooling**  
+- Minimal standard library: collections, strings, basic I/O.  
+- CLI compiler tool for developers to run simple programs.  
 
-Decide on memory model and runtime approach.
+**Phase 4 – Community Expansion**  
+- Open contribution guidelines.  
+- Develop libraries and modules collaboratively.  
 
-Gather ideas and feedback from early contributors.
+**Phase 5 – Advanced Features**  
+- Generics, advanced type checking, optimizations.  
+- IDE integrations and debugging tools.  
 
-Phase 2 – Prototype Compiler / Interpreter
+---
 
-Implement basic parser and AST for core syntax.
+## How to Contribute
+- **Ideas & Feedback:** Suggest language features, syntax changes, or runtime improvements.  
+- **Prototyping:** Help implement parsers, AST, or small experiments.  
+- **Documentation:** Improve design documents and roadmap clarity.  
 
-Compile simple programs to native code.
+*Even small contributions—ideas, experiments, or documentation—can shape the future of Javon.*  
 
-Build an initial test suite for language features.
+---
 
-Phase 3 – Standard Library & Tooling
+## License
 
-Minimal standard library: collections, strings, basic I/O.
+Javon is released under a **dual MIT OR Apache 2.0 license**, giving you the flexibility to choose which license you want to comply with.  
 
-CLI compiler tool for developers to run simple programs.
-
-Phase 4 – Community Expansion
-
-Open contribution guidelines.
-
-Develop libraries and modules collaboratively.
-
-Phase 5 – Advanced Features
-
-Generics, advanced type checking, optimizations.
-
-IDE integrations and debugging tools.
-
-How to Contribute
-
-Ideas & Feedback: Suggest language features, syntax changes, or runtime improvements.
-
-Prototyping: Help implement parsers, AST, or small experiments.
-
-Documentation: Improve design documents and roadmap clarity.
-
-Even small contributions—ideas, experiments, or documentation—can shape the future of Javon.
+See [LICENSE.md](LICENSE.md) for full license details.
